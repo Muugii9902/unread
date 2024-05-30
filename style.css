@@ -102,3 +102,34 @@ h1 {
 .profile-text {
   color: aliceblue;
 }
+.center_box {
+  width: 80%;
+  height: 85px;
+  border: 1px solid green;
+  margin: auto;
+  margin-top: 65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title_1 {
+  color: #ffffff;
+  font-size: 1.62rem;
+}
+.title_2 {
+  width: 52px;
+  height: 27px;
+  border-radius: 25px;
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  gap: 10px;
+}
+.fa-chevron-left {
+  color: #fff;
+}
+.fa-chevron-right {
+  color: #fff;
+}
